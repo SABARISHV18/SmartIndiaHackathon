@@ -1,7 +1,11 @@
 Problem Statement Description
+
+
 Ideas that showcase the rich cultural heritage and traditions of India
 
 Solution
+
+
 We aimed to develop a platform which depicts the Indian Culture by
 
 => Displaying local festivals by calendar using their location
